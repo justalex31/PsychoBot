@@ -4,3 +4,5 @@
 Здесь продолжение https://docs.google.com/document/d/1CqjoElT7jwa_yJlQFtCWId6pClHLHopMcAYI0pUYi4s/edit?usp=sharing
 
 Здесь расположен техническое задание https://docs.google.com/document/d/1IL7fyRc9My-Pxe82XJNiscnX_88k5guQiyE19WnL8o0/edit?usp=sharing
+
+Папка со всеми файлами можно найти здесь https://docs.google.com/document/d/1IL7fyRc9My-Pxe82XJNiscnX_88k5guQiyE19WnL8o0/edit?usp=sharing
